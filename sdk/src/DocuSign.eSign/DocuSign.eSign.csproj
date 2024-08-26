@@ -43,7 +43,7 @@
     <PackageReference Include="System.ComponentModel.Annotations" Version="4.5.0"/>
     <PackageReference Include="Microsoft.IdentityModel.Protocols" Version="5.4.0"/>
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.4.0"/>
-    <PackageReference Include="BouncyCastle.Cryptography" Version="2.2.1"/>
+    <PackageReference Include="BouncyCastle.Cryptography" Version="2.3.1"/>
   </ItemGroup>
   <ItemGroup/>
 </Project>
